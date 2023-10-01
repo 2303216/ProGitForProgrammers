@@ -8,6 +8,7 @@ namespace PrpGitForProgrammers
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("New line of code!");
+	    Console.WriteLine("Final");
         }
     }
 }

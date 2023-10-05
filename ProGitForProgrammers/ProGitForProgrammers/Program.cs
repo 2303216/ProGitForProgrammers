@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PrpGitForProgrammers
+namespace ProGitForProgrammers
 {
     class Program
     {

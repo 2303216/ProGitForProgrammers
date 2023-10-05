@@ -9,7 +9,7 @@ namespace ProGitForProgrammers
             Console.WriteLine("Hello World!");
             Console.WriteLine("New line of code!");
 	        Console.WriteLine("Final");
-            Console.WriteLine("change to indicate work area");
+            Console.WriteLine("change made in visual studio");
         }
     }
 }
